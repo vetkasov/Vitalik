@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+
+aiogram
+httpx
+
+python-docx
+
+numpy
+pandas
+openpyxl
+scikit-learn
+
+sentence-transformers
+transformers
+torch
